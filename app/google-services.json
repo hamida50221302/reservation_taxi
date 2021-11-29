@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "111821684447",
+    "firebase_url": "https://taxiapp-97343.firebaseio.com",
+    "project_id": "taxiapp-97343",
+    "storage_bucket": "taxiapp-97343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111821684447:android:c30edc39280a4f0a",
+        "android_client_info": {
+          "package_name": "com.example.hamida.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111821684447-1kr18lkinpjpuos9e860ms2qbb1ecef6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamida.taxi",
+            "certificate_hash": "4a51c8c2c08cb84674206cc01f1413a79d1ce46f"
+          }
+        },
+        {
+          "client_id": "111821684447-q0kdkh21bouk1iaaia2eeg7pu4s1pqor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvO-bldt8J83QNokWeTNF3ObwIWCXxJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111821684447-q0kdkh21bouk1iaaia2eeg7pu4s1pqor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
